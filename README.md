@@ -13,10 +13,9 @@ Using public 911 dispatch data, neighborhood-level vulnerability measures, and a
 
 ---
 
-For the full methodology, intermediate checks, visualizations, and detailed findings, please see the personal report here:[project report](docs/report.md).
-Please see the slides for more structured presentation: https://www.canva.com/design/DAG_7bdUcxM/ahWnDEz42NnXj76hJPXooQ/edit?utm_content=DAG_7bdUcxM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+For the full methodology, intermediate checks, visualizations, and detailed findings, please see the personal report here:/Users/yeshid/projects/seattle-care/Personal Note on 911 Analysis.pdf
 
-
+Please see the slides for more structured presentation: https://canva.link/ajvut2298ffora6
 
 
 ## Project Motivation
